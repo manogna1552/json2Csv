@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "dName": "manu1552",
+      "email": "m@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "dName": "manogna madineni",
+      "email": "mm@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "dName": "manu m",
+      "email": "manu@gmail.com",
+      "password": "123456",
+      "id": 3
+    }]
+  }
+  
